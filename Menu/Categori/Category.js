@@ -51,7 +51,7 @@ export default class Category extends Component {
                         <CardItem>
                             <Body>
                             <Text>{data.collection.title}</Text>
-                       <Text note>{data.collection.description}</Text>
+                            <Text note>{data.collection.description}</Text>
                             </Body>
                         </CardItem>
                     </Card>
